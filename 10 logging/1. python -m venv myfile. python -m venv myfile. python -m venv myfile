@@ -1,0 +1,4 @@
+1.  python -m venv myfile
+2.  pip install virtualenv
+    virtualenv -p python3 file_name
+3. conda create -p venv1 python==3.10 -y
